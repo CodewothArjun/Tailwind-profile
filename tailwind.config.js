@@ -8,6 +8,10 @@ module.exports = {
       tablet: "776px",
       desktop: "1000px",
     },
+    extend: {
+      fontFamily: {
+        poppin: ["Poppins", "sans-serif"],
+    }
   },
   plugins: [],
 };
